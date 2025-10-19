@@ -330,9 +330,8 @@ MIT License - feel free to use for learning and demonstration purposes.
 ## 👥 Support
 
 For questions or issues:
-- Create an issue in GitHub
-- Email: support@tatacapital.com (demo)
-
+- Email: shreekantht11@gmail.com
+- Ph no: 9035416202
 ---
 
 **Note**: This is a demonstration project created for EY Techathon. The backend implementation with actual Gemini integration, MongoDB operations, and PDF generation needs to be completed separately. The frontend is fully functional and production-ready.
