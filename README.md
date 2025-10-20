@@ -235,7 +235,7 @@ curl http://localhost:8000/api/offers/cust_1
 ## 📁 Project Structure
 
 ```
-tata-capital-ai-chatbot/
+eytech/
 ├── src/
 │   ├── components/          # React components
 │   │   ├── Hero.tsx
