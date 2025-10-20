@@ -35,14 +35,13 @@ A production-ready AI-powered lending chatbot built for EY Techathon. This appli
 
 ```bash
 git clone <your-repo-url>
-cd tata-capital-ai-chatbot
 ```
 
 ### 2. Install all dependencies
 
 ```bash
-npm run install:all
-```
+npm run install
+``
 
 This installs dependencies for both frontend and backend.
 
