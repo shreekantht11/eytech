@@ -100,12 +100,13 @@ This will start:
 
 Terminal 1 (Frontend):
 ```bash
-npm run dev:frontend
+npm run dev
 ```
 
 Terminal 2 (Backend):
 ```bash
-npm run dev:backend
+cd backend
+npm run dev
 ```
 
 ### Production Mode
